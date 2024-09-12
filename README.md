@@ -1,3 +1,4 @@
+                                                         FAKE NEWS DETECTOR
 In this we are using Political News Dataset and classifying them whether the news is real or fake.
 
 Dataset - The shape of the Dataset is 7796×4. It contains the following attributes :-
